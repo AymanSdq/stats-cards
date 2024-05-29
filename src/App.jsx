@@ -15,7 +15,7 @@ function App() {
             <div className=' absolute top-0 left-0 right-0 rounded-lg bottom-0 bg-SoftViolet opacity-40'>
             </div>
           </div>
-          {/* Right */}
+          {/* Right Section */}
           <div className='sm:w-1/2 max-sm:text-center flex justify-center items-center flex-col gap-10 sm:px-20 px-10 sm:py-16 py-6 inter'>
 
             <h1 className='text-4xl font-bold text-white'>Get <span className=' text-SoftViolet'>insights</span> that help your business grow.</h1>
